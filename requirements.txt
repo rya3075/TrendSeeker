@@ -1,0 +1,22 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+dill
+flask
+torch
+torchvision
+torchaudio
+yfinance  # Fetch stock market data
+requests
+
+tensorboard
+
+# Utility
+tqdm  # Progress bars
+streamlit
+
+#-e .
