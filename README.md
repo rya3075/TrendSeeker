@@ -1,7 +1,7 @@
-# Stock Trend Prediction 📈  
+# TrendSeeker - AI Powered Market Insights 📈  
 
 ## Overview  
-Stock Trend Prediction is a machine learning-based application that forecasts stock price movements using historical data. The project leverages machine learning models and data visualization techniques to provide insights into market trends.  
+TrendSeeker is a machine learning-based application that forecasts stock price movements using historical data. The project leverages machine learning models and data visualization techniques to provide insights into market trends.  
 
 ## Features  
 - 📊 **Historical Data Analysis**: Utilizes past stock data for trend identification.  
@@ -23,8 +23,8 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/stock-trend-prediction.git
-cd stock-trend-prediction
+git clone https://github.com/rya3075/TrendSeeker.git
+cd TrendSeeker
 
 # Create a virtual environment
 python -m venv venv
