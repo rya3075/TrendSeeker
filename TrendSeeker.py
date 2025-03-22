@@ -38,7 +38,7 @@ def load_data():
 model = load_model()
 train_arr, test_arr = load_data()
 
-# Prepare Data
+
 X_test = test_arr[:, :-1]  # Features
 y_test = test_arr[:, -1]    # Target labels
 y_pred = model.predict(X_test)
