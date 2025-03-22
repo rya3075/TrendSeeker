@@ -33,5 +33,8 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 # Install dependencies
 pip install -r requirements.txt
 
+#Train the model
+python src/components/data_ingestion.py
+
 # Run the Streamlit app
 streamlit run TrendSeeker.py
