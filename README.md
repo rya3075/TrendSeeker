@@ -16,7 +16,9 @@ TrendSeeker is a machine learning-based application that forecasts stock price m
 - **pandas**  
 - **NumPy**  
 - **Matplotlib & Seaborn**  
-- **Joblib** (for model persistence)  
+- **Joblib** (for model persistence)
+
+**Streamlit dash : https://trendseeke-6vs2twqt2fcfogzh26vw38.streamlit.app/**
 
 ## Installation & Setup  
 To run this project locally, follow these steps:  
